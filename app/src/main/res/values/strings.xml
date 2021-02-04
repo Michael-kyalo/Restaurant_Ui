@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UItest</string>
+    <string name="map">Map</string>
+    <string name="logout">Log out</string>
+    <string name="hero">What for lunch \ntoday?</string>
+    <string name="search_icon">search icon</string>
+    <string name="list_icon">list icon</string>
+    <string name="string_best_offer">Today\'s best offer</string>
+    <string name="view_all">view all</string>
+    <string name="restname"><![CDATA[Ambassador Grill & Lounge]]></string>
+    <string name="API_KEY">AIzaSyDXPsVYOngdl-qGUReudAKjLRJWVSilqfc</string>
+    <string name="order">View Order</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
